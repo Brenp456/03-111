@@ -1,1 +1,1 @@
-http://xcui.vitvabc.xyz:8880//get.php?username=287994000027&password=287994000027&type=m3u
+http://canais.servidor.tv:8080/get.php?username=STIFANY2021&password=2021STIFANY&type=m3u_plus
